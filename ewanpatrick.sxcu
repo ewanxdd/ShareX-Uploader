@@ -1,5 +1,5 @@
 ﻿{
-  "Name": "YOUR_SERVICE_NAME_HERE",
+  "Name": "i.ewanpatrick.co.uk",
   "DestinationType": "ImageUploader, TextUploader, FileUploader",
   "RequestType": "POST",
   "RequestURL": "https://i.ewanpatrick.co.uk/i/upload.php",
