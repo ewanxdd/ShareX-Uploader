@@ -1,5 +1,5 @@
 <?php
-$tokens = array("token1", "token2"); //Tokens go here
+$tokens = array("areallybigtoken"); //Tokens go here
  
 $sharexdir = "i/"; //File directory
 $lengthofstring = 5; //Length of file name
