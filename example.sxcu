@@ -2,7 +2,7 @@
   "Name": "YOUR_SERVICE_NAME_HERE",
   "DestinationType": "ImageUploader, TextUploader, FileUploader",
   "RequestType": "POST",
-  "RequestURL": "https://i.ewanpatrick.co.uk/upload.php",
+  "RequestURL": "https://i.ewanpatrick.co.uk/i/upload.php",
   "FileFormName": "sharex",
   "Arguments": {
     "secret": "areallybigtoken"
