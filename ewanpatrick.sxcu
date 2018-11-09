@@ -1,12 +1,12 @@
 ﻿{
-  "Name": "i.ewanpatrick.co.uk",
+  "Name": "vps.ewanpatrick.co.uk",
   "DestinationType": "ImageUploader, TextUploader, FileUploader",
   "RequestType": "POST",
-  "RequestURL": "https://i.ewanpatrick.co.uk/i/upload.php",
+  "RequestURL": "https://vps.ewanpatrick.co.uk/i/upload.php",
   "FileFormName": "sharex",
   "Arguments": {
     "secret": "areallybigtoken"
   },
   "ResponseType": "Text",
-  "URL": "https://i.ewanpatrick.co.uk/i/$json:url$"
+  "URL": "https://vps.ewanpatrick.co.uk/i/$json:url$"
 }
