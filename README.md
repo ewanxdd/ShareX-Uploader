@@ -17,3 +17,11 @@ Edit line 5 too the domain that points too your webserver
 Edit line 8 too the token that you entered in upload.php
 
 Edit line 11 too your domain (the same as above on line 5)
+
+#### Extra's
+
+Run customuploader.sxcu on your computer which will automatically set your uploader too your custom uploader
+
+## Other
+
+Make sure to chmod 777 to your images directory
