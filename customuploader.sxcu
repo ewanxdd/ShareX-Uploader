@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Custom Uploader",
+  "DestinationType": "ImageUploader, TextUploader, FileUploader",
+  "RequestType": "POST",
+  "RequestURL": "https://yourdomain.com/images/upload.php",
+  "FileFormName": "sharex",
+  "Arguments": {
+    "secret": "yourtokenhere"
+  },
+  "ResponseType": "Text",
+  "URL": "https://yourdomain.com/images/$json:url$"
+}
