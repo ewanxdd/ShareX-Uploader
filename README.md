@@ -24,4 +24,4 @@ Run customuploader.sxcu on your computer which will automatically set your uploa
 
 ## Other
 
-Make sure to chmod 777 to your images directory
+Make sure to chmod 777 to your images directory or it will not work
